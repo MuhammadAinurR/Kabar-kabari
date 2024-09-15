@@ -29,4 +29,4 @@ This is a single-page application built with React for the frontend, Express for
 
 ## Demo
 
-[Demo Link](https://github.com/MuhammadAinurR/kabar-kabari.git)
+[Demo Link](https://kabarkabari.ainurrofiq.site)
