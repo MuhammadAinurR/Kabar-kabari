@@ -1,0 +1,9 @@
+[submodule "kabarKabari-Client-React"]
+	path = kabarKabari-Client-React
+	url = https://github.com/MuhammadAinurR/kabarKabari-Client-React
+[submodule "Client-React"]
+	path = Client-React
+	url = https://github.com/MuhammadAinurR/kabarKabari-Client-React
+[submodule "Server-Express"]
+	path = Server-Express
+	url = https://github.com/MuhammadAinurR/kabarKabari-Server-Express
