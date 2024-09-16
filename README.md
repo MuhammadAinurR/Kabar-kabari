@@ -20,6 +20,13 @@ This is a single-page application built with React for the frontend, Express for
 -   **CRUD Operations**: Logged-in users can post, edit, and delete news articles they have created.
 -   **Admin Control**: Only admins can create user accounts.
 
+## Tech Stack
+
+-   **Frontend:** React, Redux
+-   **Backend:** Express JS
+-   **Database:** PostgreSQL
+-   **Other Technologies:** OAuth Google, Jest
+
 ## Deployment
 
 -   **Frontend**: Deployed on Firebase.
