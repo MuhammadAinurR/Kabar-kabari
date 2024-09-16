@@ -22,10 +22,9 @@ This is a single-page application built with React for the frontend, Express for
 
 ## Tech Stack
 
--   **Frontend:** React, Redux
--   **Backend:** Express JS
+-   **Frontend:** React, Redux, Axios, Tailwind CSS
+-   **Backend:** Express JS, bcrypt, Cloudinary, Multer, Sequelize, Jest
 -   **Database:** PostgreSQL
--   **Other Technologies:** OAuth Google, Jest
 
 ## Deployment
 
