@@ -6,6 +6,8 @@ News Portal Apps
 
 This is a single-page application built with React for the frontend, Express for the backend, and PostgreSQL for the database. The application serves as a news portal where users can explore news from various categories, search for specific news, view the latest news, and get detailed information about each news item.
 
+![Demo GIF](assets/ezgif-4-d140ea11ea.gif)
+
 ## Demo
 
 [Demo Link](https://kabarkabari.ainurrofiq.site)
